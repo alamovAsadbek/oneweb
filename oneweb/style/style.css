@@ -1,0 +1,124 @@
+/*Anonymous*/
+@import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro:wght@700&family=Poppins:wght@500&display=swap');
+
+/*Arkhip*/
+@import url('https://fonts.cdnfonts.com/css/arkhip');
+
+/*Kulim Park*/
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk&display=swap');
+
+.mainLogo {
+    font-family: 'Arkhip', sans-serif;
+    font-weight: 800;
+    margin: 15px;
+    width: 13em;
+}
+
+.mainLogo > h2 {
+    font-size: 30px;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-weight: 900;
+}
+
+.mainLogo > h3 {
+    font-size: 14px;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+.body {
+    width: 100%;
+}
+
+.body > h2 {
+    font-family: 'Arkhip', sans-serif;
+}
+
+.inputGroup {
+    width: 100%;
+    padding: 30px;
+    font-family: 'Tilt Neon', cursive;
+}
+
+.inputGroup > .input-group {
+    margin-top: 20px;
+}
+
+.input-group-text {
+    border: none;
+    background-color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: 'Tilt Neon', cursive;
+}
+
+.textInput {
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+.radioGroup {
+    padding: 30px;
+}
+
+.radioGroup > h5 {
+    font-weight: 700;
+}
+
+.radioGroup > .flexDiv {
+    display: flex;
+    margin: 20px auto;
+}
+
+.radioGroup > .flexDiv div {
+    font-size: 18px;
+    width: 50%;
+}
+
+.taskJavascript1 {
+    padding: 30px;
+}
+
+.taskJavascript1 > h5 {
+    font-weight: 650;
+}
+
+.yourselfDiv {
+    padding: 30px;
+}
+
+.yourselfDiv > h5 {
+    font-weight: 650;
+}
+
+.yourselfDiv > p {
+    width: 800px;
+}
+
+.plansDiv {
+    padding: 30px;
+}
+
+.plansDiv > h5 {
+    font-weight: 650;
+}
+
+.plansDiv > .radioBtns {
+    display: flex;
+}
+
+.radioBtns > .form-check {
+    margin-right: 100px;
+}
+
+.plansInput {
+    margin-top: 60px;
+    width: 80%;
+}
+
+.plansInput > .input-group {
+    margin-top: 15px;
+}
